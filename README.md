@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying in Nanjing University
+- 🌱 I’m currently learning C++, Java
+
 <!--
 **EricCoderG/EricCoderG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
