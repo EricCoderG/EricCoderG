@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I'm studying Software Engineering in Nanjing University.
-- 🔭 I’m currently working on a back-end project. Keep an eye for it.
+- 🔭 I’m currently working on a backend project. Keep an eye for it.
 
 ### 💬 Languages
 
