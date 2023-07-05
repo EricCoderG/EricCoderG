@@ -8,6 +8,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-0036AB?style=flat&logo=python&logoColor=white)
 
 
 
