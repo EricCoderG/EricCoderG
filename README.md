@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I'm studying Software Engineering in Nanjing University.
-- 🔭 I’m currently working on a backend project. Keep an eye for it.
+- 🔭 Currently interning at ByteDance.
 
 ### 💬 Languages
 
